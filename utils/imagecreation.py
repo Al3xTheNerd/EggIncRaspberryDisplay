@@ -43,13 +43,13 @@ def genImages():
     soulEggImage = Image.open("assets/images/misc/currency/egg_soul.png")
     soulEggImage.thumbnail((32, 32))
     im.paste(soulEggImage, ((5, 5)), soulEggImage)
-    draw.text((37, 12), f"{t.human_format(Decimal(ebData["sE"]))}", fill="black", font=font_med)
+    draw.text((37, 12), f'{t.human_format(Decimal(ebData["sE"]))}', fill="black", font=font_med)
     
     # Add Prophecy Egg Count
     prophecyEggImage = Image.open("assets/images/misc/currency/egg_of_prophecy.png")
     prophecyEggImage.thumbnail((32, 32))
     im.paste(prophecyEggImage, ((5, 40)), prophecyEggImage)
-    draw.text((37, 47), f"{ebData["pE"]}", fill="black", font=font_med)
+    draw.text((37, 47), f'{ebData["pE"]}', fill="black", font=font_med)
     
     # Add Golden Egg Count
     goldenEggImage = Image.open("assets/images/misc/currency/golden_egg.png")
