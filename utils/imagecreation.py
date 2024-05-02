@@ -28,7 +28,7 @@ def genImages():
     draw = ImageDraw.Draw(im)
     
     # Add username
-    draw.text((img_width/2,img_height/15*2 + 2), f"{backup["backup"]["userName"]}", fill="black", font=font_lg, anchor="ms")
+    draw.text((img_width/2,img_height/15*2 + 2), f'{backup["backup"]["userName"]}', fill="black", font=font_lg, anchor="ms")
     # Get all needed info for eb
     ebData = t.get_earning_bonus_data(backup)
     eb = t.calculate_earning_bonus(ebData["sE"], ebData["pE"], ebData["pB"], ebData["sF"], False)
