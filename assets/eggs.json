@@ -1,0 +1,99 @@
+{
+    "EDIBLE" : {
+        "friendlyName" : "Edible",
+        "imageLocation" : "assets/images/eggs/egg_edible.png"
+    },
+    "SUPERFOOD" : {
+        "friendlyName" : "Superfood",
+        "imageLocation" : "assets/images/eggs/eggsuperfood.png"
+    },
+    "MEDICAL" : {
+        "friendlyName" : "Medical",
+        "imageLocation" : "assets/images/eggs/egg_medical2.png"
+    },
+    "ROCKET_FUEL" : {
+        "friendlyName" : "Rocket Fuel",
+        "imageLocation" : "assets/images/eggs/egg_rocketfuel.png"
+    },
+    "SUPER_MATERIAL" : {
+        "friendlyName" : "Super Material",
+        "imageLocation" : "assets/images/eggs/egg_supermaterial.png"
+    },
+    "FUSION" : {
+        "friendlyName" : "Fusion",
+        "imageLocation" : "assets/images/eggs/egg_fusion.png"
+    },
+    "QUANTUM" : {
+        "friendlyName" : "Quantum",
+        "imageLocation" : "assets/images/eggs/egg_quantum.png"
+    },
+    "IMMORTALITY" : {
+        "friendlyName" : "Immortality",
+        "imageLocation" : "assets/images/eggs/egg_immortality.png"
+    },
+    "TACHYON" : {
+        "friendlyName" : "Tachyon",
+        "imageLocation" : "assets/images/eggs/egg_tachyon.png"
+    },
+    "GRAVITON" : {
+        "friendlyName" : "Graviton",
+        "imageLocation" : "assets/images/eggs/egg_graviton.png"
+    },
+    "DILITHIUM  " : {
+        "friendlyName" : "Dilithium",
+        "imageLocation" : "assets/images/eggs/egg_dilithium.png"
+    },
+    "PRODIGY" : {
+        "friendlyName" : "Prodigy",
+        "imageLocation" : "assets/images/eggs/egg_prodigy.png"
+    },
+    "TERRAFORM" : {
+        "friendlyName" : "Terraform",
+        "imageLocation" : "assets/images/eggs/egg_terraform.png"
+    },
+    "ANTIMATTER" : {
+        "friendlyName" : "Antimatter",
+        "imageLocation" : "assets/images/eggs/egg_antimatter.png"
+    },
+    "DARK_MATTER" : {
+        "friendlyName" : "Dark Matter",
+        "imageLocation" : "assets/images/eggs/egg_darkmatter.png"
+    },
+    "AI" : {
+        "friendlyName" : "A.I.",
+        "imageLocation" : "assets/images/eggs/egg_ai.png"
+    },
+    "NEBULA" : {
+        "friendlyName" : "Nebula",
+        "imageLocation" : "assets/images/eggs/egg_vision.png"
+    },
+    "UNIVERSE" : {
+        "friendlyName" : "Universe",
+        "imageLocation" : "assets/images/eggs/egg_universe.png"
+    },
+    "ENLIGHTENMENT" : {
+        "friendlyName" : "Enlightenment",
+        "imageLocation" : "assets/images/eggs/egg_enlightenment.png"
+    },
+
+
+
+    "CHOCOLATE" : {
+        "friendlyName" : "Chocolate",
+        "imageLocation" : "assets/images/eggs/egg_chocolate.png"
+    },
+    "EASTER" : {
+        "friendlyName" : "Easter",
+        "imageLocation" : "assets/images/eggs/egg_easter.png"
+    },
+    "FIREWORK" : {
+        "friendlyName" : "Firework",
+        "imageLocation" : "assets/images/eggs/egg_firework.png"
+    },
+    "PUMPKIN" : {
+        "friendlyName" : "Pumpkin",
+        "imageLocation" : "assets/images/eggs/egg_pumpkin.png"
+    }
+
+
+}

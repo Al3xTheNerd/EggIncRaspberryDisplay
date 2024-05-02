@@ -1,0 +1,695 @@
+{
+    "LUNAR_TOTEM" : {
+        "friendlyName" : "Lunar Totem",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_lunar_totem_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "3 INFERIOR LUNAR_TOTEM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_lunar_totem_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "6 LESSER LUNAR_TOTEM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_lunar_totem_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "6 NORMAL LUNAR_TOTEM",
+                    "1 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_lunar_totem_4.png"
+            }
+        }
+    },
+    "NEODYMIUM_MEDALLION" : {
+        "friendlyName" : "Neodymium Medallion",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_neo_medallion_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "4 INFERIOR NEODYMIUM_MEDALLION"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_neo_medallion_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "5 LESSER NEODYMIUM_MEDALLION",
+                    "1 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_neo_medallion_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "6 NORMAL NEODYMIUM_MEDALLION",
+                    "2 NORMAL INTERSTELLAR_COMPASS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_neo_medallion_4.png"
+            }
+        }
+    },
+    "BEAK_OF_MIDAS" : {
+        "friendlyName" : "Beak of Midas",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_beak_of_midas_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "4 INFERIOR BEAK_OF_MIDAS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_beak_of_midas_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "5 LESSER BEAK_OF_MIDAS",
+                    "1 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_beak_of_midas_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "6 NORMAL BEAK_OF_MIDAS",
+                    "3 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_beak_of_midas_4.png"
+            }
+        }
+    },
+    "LIGHT_OF_EGGENDIL" : {
+        "friendlyName" : "Light of Eggendil",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_light_eggendil_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR LIGHT_OF_EGGENDIL",
+                    "1 NORMAL TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_light_eggendil_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER LIGHT_OF_EGGENDIL",
+                    "4 NORMAL PHOENIX_FEATHER"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_light_eggendil_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL LIGHT_OF_EGGENDIL",
+                    "4 GREATER PHOENIX_FEATHER"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_light_eggendil_4.png"
+            }
+        }
+    },
+    "DEMETERS_NECKLACE" : {
+        "friendlyName" : "Demeter's Necklace",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_demeters_necklace_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "3 INFERIOR DEMETERS_NECKLACE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_demeters_necklace_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "5 LESSER DEMETERS_NECKLACE",
+                    "2 INFERIOR THE_CHALICE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_demeters_necklace_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "6 NORMAL DEMETERS_NECKLACE",
+                    "1 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_demeters_necklace_4.png"
+            }
+        }
+    },
+    "VIAL_MARTIAN_DUST" : {
+        "friendlyName" : "Vial of Martian Dust",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_vial_martian_dust_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR VIAL_MARTIAN_DUST"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_vial_martian_dust_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER VIAL_MARTIAN_DUST",
+                    "2 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_vial_martian_dust_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "8 NORMAL VIAL_MARTIAN_DUST",
+                    "1 NORMAL TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_vial_martian_dust_4.png"
+            }
+        }
+    },
+    "ORNATE_GUSSET" : {
+        "friendlyName" : "Ornate Gusset",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ornate_gusset_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR ORNATE_GUSSET"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ornate_gusset_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "6 LESSER ORNATE_GUSSET",
+                    "2 LESSER MERCURYS_LENS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ornate_gusset_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "8 NORMAL ORNATE_GUSSET",
+                    "3 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ornate_gusset_4.png"
+            }
+        }
+    },
+    "THE_CHALICE" : {
+        "friendlyName" : "The Chalice",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_the_chalice_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "4 INFERIOR THE_CHALICE",
+                    "1 LESSER GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_the_chalice_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "6 LESSER THE_CHALICE",
+                    "4 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_the_chalice_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "8 NORMAL THE_CHALICE",
+                    "2 GREATER BEAK_OF_MIDAS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_the_chalice_4.png"
+            }
+        }
+    },
+    "BOOK_OF_BASAN" : {
+        "friendlyName" : "Book of Basan",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_book_of_basan_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR BOOK_OF_BASAN",
+                    "4 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_book_of_basan_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "10 LESSER BOOK_OF_BASAN",
+                    "3 GREATER THE_CHALICE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_book_of_basan_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "12 NORMAL BOOK_OF_BASAN",
+                    "1 GREATER LIGHT_OF_EGGENDIL"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_book_of_basan_4.png"
+            }
+        }
+    },
+    "PHOENIX_FEATHER" : {
+        "friendlyName" : "Phoenix Feather",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_phoenix_feather_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR PHOENIX_FEATHER",
+                    "1 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_phoenix_feather_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "10 LESSER PHOENIX_FEATHER",
+                    "2 INFERIOR BOOK_OF_BASAN"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_phoenix_feather_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "12 NORMAL PHOENIX_FEATHER",
+                    "1 NORMAL BOOK_OF_BASAN"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_phoenix_feather_4.png"
+            }
+        }
+    },
+    "TUNGSTEN_ANKH" : {
+        "friendlyName" : "Tungsten Ankh",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tungsten_ankh_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR TUNGSTEN_ANKH"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tungsten_ankh_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER TUNGSTEN_ANKH",
+                    "2 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tungsten_ankh_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "8 NORMAL TUNGSTEN_ANKH",
+                    "4 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tungsten_ankh_4.png"
+            }
+        }
+    },
+    "AURELIAN_BROOCH" : {
+        "friendlyName" : "Aurelian Brooch",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_aurelian_brooch_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR AURELIAN_BROOCH"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_aurelian_brooch_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER AURELIAN_BROOCH",
+                    "2 NORMAL DEMETERS_NECKLACE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_aurelian_brooch_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL AURELIAN_BROOCH",
+                    "2 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_aurelian_brooch_4.png"
+            }
+        }
+    },
+    "CARVED_RAINSTICK" : {
+        "friendlyName" : "Carved Rainstick",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_carved_rainstick_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR CARVED_RAINSTICK",
+                    "1 INFERIOR ORNATE_GUSSET"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_carved_rainstick_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER CARVED_RAINSTICK",
+                    "1 NORMAL BEAK_OF_MIDAS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_carved_rainstick_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "9 NORMAL CARVED_RAINSTICK",
+                    "2 NORMAL TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_carved_rainstick_4.png"
+            }
+        }
+    },
+    "PUZZLE_CUBE" : {
+        "friendlyName" : "Puzzle Cube",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_puzzle_cube_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "3 INFERIOR PUZZLE_CUBE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_puzzle_cube_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER PUZZLE_CUBE",
+                    "2 INFERIOR ORNATE_GUSSET"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_puzzle_cube_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL PUZZLE_CUBE",
+                    "2 NORMAL GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_puzzle_cube_4.png"
+            }
+        }
+    },
+    "QUANTUM_METRONOME" : {
+        "friendlyName" : "Quantum Metronome",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_quantum_metronome_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "3 INFERIOR QUANTUM_METRONOME",
+                    "2 INFERIOR TITANIUM_ACTUATOR"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_quantum_metronome_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "7 LESSER QUANTUM_METRONOME",
+                    "4 NORMAL MERCURYS_LENS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_quantum_metronome_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "9 NORMAL QUANTUM_METRONOME",
+                    "4 NORMAL TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_quantum_metronome_4.png"
+            }
+        }
+    },
+    "SHIP_IN_A_BOTTLE" : {
+        "friendlyName" : "Ship in a Bottle",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ship_in_a_bottle_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR SHIP_IN_A_BOTTLE",
+                    "2 GREATER DEMETERS_NECKLACE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ship_in_a_bottle_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "9 LESSER SHIP_IN_A_BOTTLE",
+                    "3 NORMAL SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ship_in_a_bottle_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "12 NORMAL SHIP_IN_A_BOTTLE",
+                    "2 NORMAL BOOK_OF_BASAN"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_ship_in_a_bottle_4.png"
+            }
+        }
+    },
+    "TACHYON_DEFLECTOR" : {
+        "friendlyName" : "Tachyon Deflector",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tachyon_deflector_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR TACHYON_DEFLECTOR",
+                    "2 LESSER SHIP_IN_A_BOTTLE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tachyon_deflector_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "10 LESSER TACHYON_DEFLECTOR",
+                    "1 GREATER QUANTUM_METRONOME"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tachyon_deflector_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "12 NORMAL TACHYON_DEFLECTOR",
+                    "4 GREATER SHIP_IN_A_BOTTLE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tachyon_deflector_4.png"
+            }
+        }
+    },
+    "INTERSTELLAR_COMPASS" : {
+        "friendlyName" : "Interstellar Compass",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_interstellar_compass_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR INTERSTELLAR_COMPASS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_interstellar_compass_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "8 LESSER INTERSTELLAR_COMPASS",
+                    "4 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_interstellar_compass_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL INTERSTELLAR_COMPASS",
+                    "4 NORMAL TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_interstellar_compass_4.png"
+            }
+        }
+    },
+    "DILITHIUM_MONOCLE" : {
+        "friendlyName" : "Dilithium Monocle",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_dilithium_monocle_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "5 INFERIOR DILITHIUM_MONOCLE",
+                    "1 INFERIOR TITANIUM_ACTUATOR"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_dilithium_monocle_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "8 LESSER DILITHIUM_MONOCLE",
+                    "2 NORMAL SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_dilithium_monocle_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL DILITHIUM_MONOCLE",
+                    "2 GREATER MERCURYS_LENS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_dilithium_monocle_4.png"
+            }
+        }
+    },
+    "TITANIUM_ACTUATOR" : {
+        "friendlyName" : "Titanium Actuator",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_titanium_actuator_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "4 INFERIOR TITANIUM_ACTUATOR",
+                    "4 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_titanium_actuator_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "6 LESSER TITANIUM_ACTUATOR",
+                    "3 NORMAL SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_titanium_actuator_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "8 NORMAL TITANIUM_ACTUATOR",
+                    "3 GREATER QUANTUM_METRONOME"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_titanium_actuator_4.png"
+            }
+        }
+    },
+    "MERCURYS_LENS" : {
+        "friendlyName" : "Mercury's Lens",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_mercurys_lens_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "6 INFERIOR MERCURYS_LENS"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_mercurys_lens_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "8 LESSER MERCURYS_LENS",
+                    "2 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_mercurys_lens_3.png"
+            },
+            "GREATER" : {
+                "recipe" : [
+                    "10 NORMAL MERCURYS_LENS",
+                    "6 NORMAL SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_mercurys_lens_4.png"
+            }
+        }
+    },
+    "GOLD_METEORITE" : {
+        "friendlyName" : "Gold Meteorite",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_gold_meteorite_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "9 INFERIOR GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_gold_meteorite_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "11 LESSER GOLD_METEORITE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_gold_meteorite_3.png"
+            },
+            "GREATER" : {
+                "recipe" : null,
+                "imageLink" : null
+            }
+        }
+    },
+    "TAU_CETI_GEODE" : {
+        "friendlyName" : "Tau Ceti Geode",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tau_ceti_geode_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "12 INFERIOR TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tau_ceti_geode_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "14 LESSER TAU_CETI_GEODE"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_tau_ceti_geode_3.png"
+            },
+            "GREATER" : {
+                "recipe" : null,
+                "imageLink" : null
+            }
+        }
+    },
+    "SOLAR_TITANIUM" : {
+        "friendlyName" : "Solar Titanium",
+        "tiers" : {
+            "INFERIOR" : {
+                "recipe" : null,
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_solar_titanium_1.png"
+            },
+            "LESSER" : {
+                "recipe" : [
+                    "10 INFERIOR SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_solar_titanium_2.png"
+            },
+            "NORMAL" : {
+                "recipe" : [
+                    "12 LESSER SOLAR_TITANIUM"
+                ],
+                "imageLink" : "https://auxbrain.com/dlc/artifacts/1/afx_solar_titanium_3.png"
+            },
+            "GREATER" : {
+                "recipe" : null,
+                "imageLink" : null
+            }
+        }
+    }
+}
